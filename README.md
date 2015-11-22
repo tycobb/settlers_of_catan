@@ -24,7 +24,7 @@ This will be script to looking at the different ranking styles for the Settlers 
  5. Projections...Descriptive Stats...Graphs?
  6. Create and send email to the league players
  Example of what Rob provided in the email
- ------------------------------------------------------------------------------------------
+ ------------------------------
  			Points	GP	TGP	AVGPts	4PAR
  Mike P - 	22		3	25	8.3		2
  Justin - 	14		3	21	7		3.0
@@ -32,4 +32,4 @@ This will be script to looking at the different ranking styles for the Settlers 
  Perez -  	8		2	14	7		2.5
  Rob - 	4		1	9	9		2
  Foglio - 	0		0
- ------------------------------------------------------------------------------------------
+ ------------------------------
